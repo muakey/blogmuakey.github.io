@@ -91,16 +91,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "GitHub·RainbomSea",
-        href: "http://RainbomSea.github.io"
+        title: "GitHub·Muakey",
+        href: "http://blogmuakey.github.io"
     },{
-        title: "CSDN·RainbomSea",
-        href: "https://blog.csdn.net/qq_39268193"
+        title: "CSDN·muakey",
+        href: "https://blog.csdn.net/muakey"
     },{
-        title: "知乎·RainbomSea",
-        href: "https://www.zhihu.com/people/RainbomSea"
+        title: "知乎·muakey",
+        href: "https://www.zhihu.com/people/muakey"
     },{
         title: "GitBook·RainbomSea",
-        href: "https://legacy.gitbook.com/@rainbomsea"
+        href: "https://legacy.gitbook.com/@muakey"
     }
 ]
